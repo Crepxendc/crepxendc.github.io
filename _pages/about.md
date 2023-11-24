@@ -16,10 +16,3 @@ redirect_from:
 
 <p>My research interests are medical imaging, machine learning and AI security. </p>
 
-<hr/>
-
-<h1 class="page__title">Publications</h1>
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
