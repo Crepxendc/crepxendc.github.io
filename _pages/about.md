@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# <h1 class="page__title">About Me</h1>
+<h1 class="page__title">About Me</h1>
 
 <p>
   I am a Senior undergraduate students in the <a href="https://www.ee.tsinghua.edu.cn/en/">Department of Electronic Engineering</a> at Tsinghua University, where I worked with 
