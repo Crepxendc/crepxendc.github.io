@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /about.md
 ---
 
 <h1 class="page__title">About Me</h1>
@@ -16,3 +16,6 @@ redirect_from:
 
 <p>My research interests are medical imaging, machine learning and AI security. </p>
 
+<h1 class="page__title">Project</h1>
+1. ROS-based football robots and drones
+2. 
