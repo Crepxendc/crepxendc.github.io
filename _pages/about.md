@@ -8,16 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<h1 class="page__title">About Me</h1>
+# <h1 class="page__title">About Me</h1>
 
 <p>
-  I am a first-year PhD student at UC San Diego, advised by Prof. <a href="https://cseweb.ucsd.edu/~haosu/">Hao Su</a>. 
-  I received my B.Eng. degree from <a href="https://iiis.tsinghua.edu.cn/en/">IIIS</a>, Tsinghua University, where I worked with 
-  Prof. <a href="https://ericyi.github.io/">Li Yi</a> on 3D shape reconstruction, 
-  and Prof. <a href="https://people.iiis.tsinghua.edu.cn/~taodu/">Tao Du</a> on physics-based simulation.
+  I am a Senior undergraduate students in the <a href="https://www.ee.tsinghua.edu.cn/en/">Department of Electronic Engineering</a> at Tsinghua University, where I worked with 
 </p>
 
-<p>My research interests are computer graphics and physics-based simulation. </p>
+<p>My research interests are medical imaging, machine learning and AI security. </p>
 
 <hr/>
 
