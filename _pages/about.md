@@ -14,7 +14,7 @@ redirect_from:
   Welcome to my corner! I am a Senior undergraduate students in the <a href="https://www.ee.tsinghua.edu.cn/en/">Department of Electronic Engineering</a> at Tsinghua University, where I've had the privilege of engaging in a variety of scientific and technological activities, from robotics and microbial fermentation projects to exploring the complex problems in medical imaging and astronomical signals. Before that, I was actively involved in chemistry and biology competitions during high school, which gave me a solid foundation in life sciences and medicine. These experiences have not only honed my technical skills but have also instilled in me a commitment to pushing the boundaries of interdisciplinary research.
 </p>
 
-<p>Beyond academics, I am an advocate for continuous learning, always seeking to expand my skill set. I believe in the power of interdisciplinary collaboration and the potential of technology to reshape the future. My research interests are medical imaging, machine learning and AI security. </p>
+<p>Beyond academics, I am an advocate for continuous learning, always seeking to expand my skill set. I believe in the power of interdisciplinary collaboration and the potential of technology to reshape the future. </p>
 
 <h1 class="page__title">Research Interests</h1>
 
