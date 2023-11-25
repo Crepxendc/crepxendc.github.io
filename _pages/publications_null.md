@@ -1,5 +1,5 @@
 ---
-permalink: /publications/
+permalink: /publications_null/
 title: "Currently None"
 author_profile: true
 redirect_from: 
