@@ -22,7 +22,7 @@ My academic interests span a broad spectrum, reflecting my interdisciplinary bac
 
 - **Biomedical AI and Medical Imaging:** Exploring innovative applications of technology in the healthcare sector to enhance diagnostics and treatment. Unraveling the mysteries of human body and other biological systems through computational approaches.
 - **AI Security:** 
-Migrating traditional computer security principles to machine learning and exploring advanced concepts in AI security to develop robust solutions for safeguarding machine learning models from issues such as backdoor attacks, sniffers, and data leaks.
+Migrating basic computer security principles learned in the class to machine learning and exploring advanced concepts in AI security to develop robust solutions for safeguarding machine learning models from issues such as backdoor attacks, sniffers, and data leaks.
 - **Computer Vision:** Leveraging computer vision and generative model techniques to develop intelligent systems with an emphasis on medical imaging diagnosis and other practical applications.
 
 I am particularly intrigued by projects that involve the convergence of these fields, aiming to create impactful solutions to real-world challenges.
