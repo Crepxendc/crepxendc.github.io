@@ -9,6 +9,8 @@ redirect_from:
 
 project test!
 
+![dunk1.jpg](images/profile.png)
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
