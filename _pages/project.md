@@ -7,4 +7,4 @@ redirect_from:
   - /project.html
 ---
 
-## To be completed
+## Oops, the page is lost
