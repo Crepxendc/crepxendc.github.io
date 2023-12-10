@@ -16,7 +16,7 @@ During high school, a severe [lumbar disc herniation](https://en.wikipedia.org/w
 
 Unfortunately, an occasional misdiagnosis from an X-ray image further delayed my treatment. During my personal struggles, I nurtured a vision to to improve medical imaging diagnostics and rehabilitation guidance for everyone. Amid treatment and recovery, I delved into anatomy and medical imaging, discovering the role of AI in medical diagnostics. My dream is to make healthcare more intelligent and accessible.
 
-After two years of dedicated rehabilitation, lumbar disc issues and reconstructed ACL no longer plague me. I'm back to basketball court. If you're dealing with chronic issues in the back or knees, feel free to reach out.:basketball:
+After two years of dedicated rehabilitation, lumbar disc issues and reconstructed ACL no longer plague me. I'm back to basketball court. If you're dealing with chronic issues in the back or knees, feel free to reach out :basketball:.
 
 <center class="half">
     <img style="border-radius: 0.3125em;
