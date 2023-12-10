@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Chen's Homepage"
 title_separator          : "-"
-name                     : &name "Chen"
+name                     : &name "Shaun Chen"
 description              : &description "undergraduate @ THU"
 url                      : https://crepxendc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaochen"
+  name             : "Shaun Chen"
   avatar           : "profile_picture.png"
   bio              : "undergraduate @ THU"
   location         : "Beijing China"
