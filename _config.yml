@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chen's Homepage"
+title                    : "Shaun Chen's Homepage"
 title_separator          : "-"
 name                     : &name "Shaun Chen"
 description              : &description "undergraduate @ THU"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shaun Chen"
+  name             : "Shaun  Chen"
   avatar           : "profile_picture.png"
   bio              : "undergraduate @ THU"
   location         : "Beijing China"
