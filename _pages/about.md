@@ -28,3 +28,5 @@ Migrating basic computer security principles learned in the class to machine lea
 - **Computer Vision:** Leveraging computer vision and generative model techniques to develop intelligent systems with an emphasis on medical imaging diagnosis and other practical applications.
 
 I am particularly intrigued by projects that involve the convergence of these fields, aiming to create impactful solutions to real-world challenges.
+
+`Last updated: January 2024`
